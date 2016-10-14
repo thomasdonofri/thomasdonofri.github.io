@@ -1,0 +1,7 @@
+body {
+   background-image:url(/images/simpsons1.png);
+	background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
